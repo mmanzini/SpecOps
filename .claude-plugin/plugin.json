@@ -1,0 +1,16 @@
+{
+  "name": "specops",
+  "description": "SpecOps — PM-first Spec-Driven Development suite. Guides users through 4 phases (Brief, Plan, Shape, Implement) with expert agent consultation and structured question flows. Built on the SDD Standard.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Massimiliano Manzini"
+  },
+  "keywords": [
+    "specops",
+    "sdd",
+    "spec-driven-development",
+    "product-management",
+    "project-planning",
+    "agent-teams"
+  ]
+}
